@@ -1,6 +1,6 @@
 # YFV-human-aedes README
-  Copyright (C) 2025 ShahLab247
-  E-mail: prsshah@ucdavis.edu
+Copyright (C) 2025 ShahLab247
+E-mail: prsshah@ucdavis.edu
 
 ## Data and information for yellow fever virus AP-MS and human-Aedes structural alignments
 12 MAR 2025 - (Uploaded) YFV-Foldseekout-Forward.tar.gz and YFV-Foldseek-out-Reverse.tar.gz
