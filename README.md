@@ -26,8 +26,8 @@ Yellow Fever Virus Interactomes Reveal Common and Divergent Strategies of Replic
     The search results were limited to e-value < 1e-10.
     Blank text files were generated because a Foldseek search occurred but no results met the e-value threshold.
   
-  - 25 MAR 2025 - (Uploaded) YFV-NEEDLE-out.tar.gz
-    Full .tar.gz NEEDLE outputs for the Human and Aedes aegypti proteins.
+  - ~25 MAR 2025 - (Uploaded) YFV-NEEDLE-out.tar.gz
+    Full .tar.gz NEEDLE outputs for the Human and Aedes aegypti proteins.~
   
   - 23 JUN 2025 - (Uploaded) YFV-NEEDLE-out-1.tar.gz and YFV-NEEDLE-out-2.tar.gz
     Replaced and updated previous NEEDLE output archive from 25 MAR 2025. Archive size was too large and was split into two files.
