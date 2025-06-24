@@ -1,6 +1,7 @@
 ### Aedes aegypti MiST Scoring and Human Homolog Mapping
-### Author: Matthew Kenaston, Date: 23 JUN 2025
 ### Description: MiST scoring pipeline for Aedes aegypti proteomics data, with mapping to human homologs using InParanoid.
+### The MiST package was developed by the Krogan Lab at UCSF: https://doi.org/10.1002/0471250953.bi0819s49.
+### Author: Matthew Kenaston, Date: 23 JUN 2025
 
 ### Copyright (C) 2025, Shah Lab, UC Davis
 ### GNU General Public License v3.0
