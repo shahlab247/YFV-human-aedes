@@ -1,5 +1,6 @@
 ### YFV-Human MiST Interaction Analysis Pipeline
 ### General pipeline for MS-based PPI data scoring using MiST, background filtering, and CORUM complex annotation.
+### The MiST package was developed by the Krogan Lab at UCSF: https://doi.org/10.1002/0471250953.bi0819s49.
 ### Matthew Kenaston, 23 JUN 2025
 
 ### Copyright (C) 2025, Shah Lab, UC Davis
