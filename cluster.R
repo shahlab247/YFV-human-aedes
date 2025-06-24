@@ -1,6 +1,7 @@
 ### Flavivirus-Human Interaction Network Analysis with DIS Scores and Enrichment]
 ### This script performs clustering, calculates virus-specific distinctiveness (DIS) scores, 
 ### and conducts GO/CORUM/Reactome enrichment for MiST interaction data across flaviviruses.
+### The clustering analysis is based on work from the Krogan Lab at UCSF: https://doi.org/10.1126/science.abe9403
 ### Matthew Kenaston, 23 JUN 2025
 
 ### Copyright (C) 2025, Shah Lab, UC Davis
