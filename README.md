@@ -8,6 +8,7 @@ Yellow Fever Virus Interactomes Reveal Common and Divergent Strategies of Replic
   - 23 JUN 2025 - (Uploaded) humanmist.R and aedesmist.R
 
     MiST analyses for the YFV-human and YFV-mosquito interactomes. This data uses standard MiST setup files to perform the analysis.
+    The MiST package was developed by the Krogan Lab at UCSF: <https://doi.org/10.1002/0471250953.bi0819s49.>
 
 ### Enrichment and Clustering
   - 23 JUN 2025 - (Uploaded) enrichment.R and cluster.R
@@ -35,9 +36,9 @@ Yellow Fever Virus Interactomes Reveal Common and Divergent Strategies of Replic
     The search results were limited to e-value < 1e-10.
     Blank text files were generated because a Foldseek search occurred but no results met the e-value threshold.
   
-  - ~25 MAR 2025 - (Uploaded) YFV-NEEDLE-out.tar.gz
+  - ~25 MAR 2025 - (Uploaded) YFV-NEEDLE-out.tar.gz~
 
-    Full .tar.gz NEEDLE outputs for the Human and Aedes aegypti proteins.~
+    ~Full .tar.gz NEEDLE outputs for the Human and Aedes aegypti proteins.~
   
   - 23 JUN 2025 - (Uploaded) YFV-NEEDLE-out-1.tar.gz and YFV-NEEDLE-out-2.tar.gz
 
