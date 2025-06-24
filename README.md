@@ -8,12 +8,13 @@ Yellow Fever Virus Interactomes Reveal Common and Divergent Strategies of Replic
   - 23 JUN 2025 - (Uploaded) humanmist.R and aedesmist.R
 
     MiST analyses for the YFV-human and YFV-mosquito interactomes. This data uses standard MiST setup files to perform the analysis.
-    The MiST package was developed by the Krogan Lab at UCSF: <https://doi.org/10.1002/0471250953.bi0819s49.>
+    The MiST package was developed by the Krogan Lab at UCSF: <https://doi.org/10.1002/0471250953.bi0819s49>
 
 ### Enrichment and Clustering
   - 23 JUN 2025 - (Uploaded) enrichment.R and cluster.R
 
     Enrichment and clustering analyses for Gene Ontology and differential interaction scoring (DIS) for comparative analysis of flavivirus MiST data.
+    The clustering analysis is based on work from the Krogan Lab at UCSF: <https://doi.org/10.1126/science.abe9403>
 
 ### Foldseek, FATCAT, and NEEDLE analysis
   - 23 JUN 2025 - (Uploaded) Scripts used to generate Foldseek, FATCAT, and NEEDLE data.
